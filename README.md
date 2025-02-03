@@ -1,6 +1,6 @@
 # Navigability Past Model
 
-Navigability Past Model is an evolutionary theoretical Agent-Based Model to explore the effect of cooperation on dispersal under different climate constraints in two study sub-regions, the Altai and Tian Shan Mountains. 
+Navigability Past Model 
 
 This repository contains data and scripts used in the following paper published in JAS:
 
