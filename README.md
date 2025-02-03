@@ -4,11 +4,8 @@ Navigability Past Model
 
 This repository contains data and scripts used in the following paper published in JAS:
 
-* Clara Filet, C, Clement Laroche, C., Coto-Sarmiento, M., Bongers, T. (accepted February 2025):  As the water flows: a method for assessing river navigability in the past. Journal of Archaeological Science. 
+** Clara Filet, C, Clement Laroche, C., Coto-Sarmiento, M., Bongers, T. (accepted February 2025):  As the water flows: a method for assessing river navigability in the past. Journal of Archaeological Science. 
 
-
-
-The repository is organized into 3 folders: 
 
 
 # Requeriments
@@ -37,7 +34,7 @@ Brughmans) and the Fyssen Foundation postdoctoral fellowship
 
 # Contact
 
-Please, contact me if you have any questions, comments, or feedback --> mcotsar [at] gmail.com
+Please, contact me if you have any questions, comments, or feedback --> mcotsar [at] gmail.com or clp.laroche[at]gmail.com
 
 # License
 CC-BY 4.0
