@@ -5,7 +5,7 @@ Applying this method offers a new perspective on navigable areas in the Roman wo
 
 This repository contains data and scripts used in the following paper published in JAS:
 
-**Clara Filet, C, Clement Laroche, C., Coto-Sarmiento, M., Bongers, T. (accepted February 2025):  As the water flows: a method for assessing river navigability in the past. Journal of Archaeological Science.**
+**Clara Filet, C., Laroche, C., Coto-Sarmiento, M., Bongers, T. (accepted February 2025):  As the water flows: a method for assessing river navigability in the past. Journal of Archaeological Science.**
 
 
 # Requeriments
