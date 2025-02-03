@@ -11,6 +11,7 @@ This repository contains data and scripts used in the following paper published 
 # Requeriments
 
 * R version 3.2.4, using the packages `dplyr`, `ggplot2`, and `reshape2` (data visualization)
+* Package `segmented` from the paper: Muggeo, V. M. (2008). segmented: an r package to fit regression models with broken-line relationships. R News, 8(1):20–25.
 
 # Data structure
 
