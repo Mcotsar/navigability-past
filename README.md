@@ -29,9 +29,7 @@ There are 5 of them which consist in :
 
 # Funding
 
-This work was supported by the MINERVA Project (Danmarks Frie Forskn-805
-ingsfond (DFF) Sapere Aude research leadership grant (0163-00060B), PI: Tom
-Brughmans) and the Fyssen Foundation postdoctoral fellowship
+This work was supported by the MINERVA Project (Danmarks Frie Forskningsfond (DFF) Sapere Aude research leadership grant (0163-00060B), PI: Tom Brughmans) and the Fyssen Foundation postdoctoral fellowship
 
 # Contact
 
