@@ -17,7 +17,7 @@ This repository contains data and scripts used in the following paper published 
 
 This git repository contains all the scripts for the paper.
 
-There are 5 of them which consist in : 
+There are 5 of them which consist in : `data` and `code`
 
 * `partsection_wo_constraint.R` --> applies the changepoint detection method on the elevation of points located upstream of the highest confluence location (search method M1). 
 * `fullsection_wo_constraint.R` --> that applies the changepoint detection method on the elevation of all the points of the rivers (search method M2).
