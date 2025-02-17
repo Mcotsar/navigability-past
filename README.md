@@ -1,5 +1,7 @@
 # Navigability Past Model
 
+## Abstract 
+
 Although textual and archaeological sources inform us about the importance of river transport in Protohistory, Antiquity, and the Middle Ages, integrating it into studies of ancient mobility remains a challenge. Empirical navigability studies are time-consuming and are only feasible for rivers well-documented by historical, archaeological, and palaeogeographical studies. This work proposes a method for realistically approximating navigable sections without empirical data by algorithmically detecting the plain sections of a river and testing its reliability as an indicator of navigability. Using 18 rivers in central-eastern Gaul, for which we have empirical knowledge of ancient navigable sections, we demonstrate that estimating the plain section of the river based on a change-point detection algorithm provides a good approximation of navigable sections. This method is applied to 48 Roman rivers where empirical information about navigable sections is scattered. A subset of these rivers is then empirically tested to validate the results obtained.
 Applying this method offers a new perspective on navigable areas in the Roman world, providing a reasonable first guess that could guide future empirical research into the navigability of ancient rivers.
 
