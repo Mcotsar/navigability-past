@@ -12,8 +12,9 @@ This repository contains data and scripts used in the following paper published 
 
 # Requeriments
 
-* R version 3.2.4, using the packages `dplyr`, `ggplot2`, and `reshape2` (data visualization)
+* R version 4.3.1 (2023-06-16 ucrt) -- "Beagle Scouts" was used to compute all results and Figures 6 to 11 of the paper. An API key for stadia maps is necessary to compute Figure 6. Please follow the following link explaining how to get one : https://docs.stadiamaps.com/authentication/
 * Package `segmented` from the paper: Muggeo, V. M. (2008). segmented: an r package to fit regression models with broken-line relationships. R News, 8(1):20–25.
+* List of required R packages : - udunits2 - sf - terra - gridExtra - raster - osmdata - data.table - ggplot2 - mcp - changepoint - segmented - patchwork - dplyr - FactoMineR - ggmap - longitudinalData - rPref - reshape2
 
 # Data structure
 
@@ -27,6 +28,19 @@ There are 5 of them which consist in : `data` and `code`
 * `Img_prod.R` --> that produces Figures from the paper.
 * `Method_comp.R` --> that produces the indicators measuring the performance on the models. It is also the script where we cluster the rivers and compare the efficiency of the methods on the different clusters.
 
+
+# Instructions
+
+
+To compute the results of the first search method: 1. Open the partsection_wo_constraint.R script. 2. Run it. 3. All produced files will be found in the results folder.
+
+To compute the results of the second search method: 1. Open the fullsection_wo_constraint.R script. 2. Run it. 3. All produced files will be found in the results folder.
+
+To compute the results of the third search method: 1. Open the fullsection_w_constraint.R script. 2. Run it. 3. All produced files will be found in the results folder.
+
+To compute the clustering of rivers according to their shape and observe the search methods results on the clusters : 1. Open the Method_comp.R script. 2. Run it. 3. All produced Figures will be found in the root of the repository.
+
+To produce Figures 6,7,8,9,10 or/and 11 from the paper (and other interesting figures) : 1. Open the Img_prod.R script. 2. Run it. 3. All produced Figures will be found in the root of the repository. 4. A additionnal csv will be produced in the results folder. 
 
 
 # Funding
