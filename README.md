@@ -20,9 +20,7 @@ More information and data, and results here: https://osf.io/x29tq/
 
 # Data structure
 
-This git repository contains all the scripts for the paper.
-
-There are 5 of them which consist in : `data` and `code`
+This git repository contains all the scripts for the paper. Data and results can be found here: https://osf.io/x29tq/
 
 * `partsection_wo_constraint.R` --> applies the changepoint detection method on the elevation of points located upstream of the highest confluence location (search method M1). 
 * `fullsection_wo_constraint.R` --> that applies the changepoint detection method on the elevation of all the points of the rivers (search method M2).
