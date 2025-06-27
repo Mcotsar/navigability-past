@@ -9,6 +9,8 @@ This repository contains data and scripts used in the following paper published 
 
 **Clara Filet, C., Laroche, C., Coto-Sarmiento, M., Bongers, T. (accepted February 2025):  As the water flows: a method for assessing river navigability in the past. Journal of Archaeological Science.**
 
+More information and data, and results here: https://osf.io/x29tq/
+
 
 # Requeriments
 
